@@ -1,2 +1,5 @@
-# react-native-turbo-ble
-React Native BLE library
+# React Native Bluetooth Low Energy library
+
+## License
+
+[MIT](LICENSE)
